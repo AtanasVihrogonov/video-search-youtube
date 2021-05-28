@@ -7,10 +7,10 @@ Simple App to search video from YouTube.
 - The app shows how to do a search and show some results.
 
 ## Screenshots
-Desktop
-![Screenshot 2021-05-28 at 14 58 34](https://user-images.githubusercontent.com/45083295/120003022-41519a80-bfcd-11eb-8097-c30790262079.png)
+### Desktop
+![Screenshot 2021-05-28 at 16 06 53](https://user-images.githubusercontent.com/45083295/120005276-9a223280-bfcf-11eb-86d3-594b8e3116f9.png)
 
-Mobile
+### Mobile
 ![Screenshot 2021-05-28 at 16 00 17](https://user-images.githubusercontent.com/45083295/120003702-e7050980-bfcd-11eb-8aa5-9849a5e92f0e.png)
 
 
